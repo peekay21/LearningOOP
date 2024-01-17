@@ -1,3 +1,9 @@
-git remote add origin https://github.com/peekay21/LearningOOP.git
-git branch -M main
-git push -u origin main
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    cout <"C++ is better than C.\n";
+
+    return 0;
+}
